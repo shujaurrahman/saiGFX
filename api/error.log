@@ -1,0 +1,58 @@
+[24-May-2025 09:09:19 UTC] PHP Warning:  require_once(./dbcredentials.class.php): Failed to open stream: No such file or directory in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:09:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './dbcredentials.class.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php:2
+Stack trace:
+#0 /home/u899926382/domains/quantapixel.in/public_html/saigfx/api/get-products.php(25): require_once()
+#1 {main}
+  thrown in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:09:48 UTC] Starting get-products.php request
+[24-May-2025 09:09:48 UTC] Found logics.class.php at: ../logics.class.php
+[24-May-2025 09:09:48 UTC] PHP Warning:  require_once(./dbcredentials.class.php): Failed to open stream: No such file or directory in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:09:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './dbcredentials.class.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php:2
+Stack trace:
+#0 /home/u899926382/domains/quantapixel.in/public_html/saigfx/api/get-products.php(30): require_once()
+#1 {main}
+  thrown in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:10:24 UTC] Starting get-products.php request
+[24-May-2025 09:10:24 UTC] Found logics.class.php at: ../logics.class.php
+[24-May-2025 09:10:24 UTC] PHP Warning:  require_once(./dbcredentials.class.php): Failed to open stream: No such file or directory in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:10:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './dbcredentials.class.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php:2
+Stack trace:
+#0 /home/u899926382/domains/quantapixel.in/public_html/saigfx/api/get-products.php(30): require_once()
+#1 {main}
+  thrown in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:10:33 UTC] Starting get-products.php request
+[24-May-2025 09:10:33 UTC] Found logics.class.php at: ../logics.class.php
+[24-May-2025 09:10:33 UTC] PHP Warning:  require_once(./dbcredentials.class.php): Failed to open stream: No such file or directory in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:10:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './dbcredentials.class.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php:2
+Stack trace:
+#0 /home/u899926382/domains/quantapixel.in/public_html/saigfx/api/get-products.php(30): require_once()
+#1 {main}
+  thrown in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:10:37 UTC] Starting get-products.php request
+[24-May-2025 09:10:37 UTC] Found logics.class.php at: ../logics.class.php
+[24-May-2025 09:10:37 UTC] PHP Warning:  require_once(./dbcredentials.class.php): Failed to open stream: No such file or directory in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:10:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './dbcredentials.class.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php:2
+Stack trace:
+#0 /home/u899926382/domains/quantapixel.in/public_html/saigfx/api/get-products.php(30): require_once()
+#1 {main}
+  thrown in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:10:40 UTC] Starting get-products.php request
+[24-May-2025 09:10:40 UTC] Found logics.class.php at: ../logics.class.php
+[24-May-2025 09:10:40 UTC] PHP Warning:  require_once(./dbcredentials.class.php): Failed to open stream: No such file or directory in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:10:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './dbcredentials.class.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php:2
+Stack trace:
+#0 /home/u899926382/domains/quantapixel.in/public_html/saigfx/api/get-products.php(30): require_once()
+#1 {main}
+  thrown in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:11:04 UTC] Starting get-products.php request
+[24-May-2025 09:11:04 UTC] Found logics.class.php at: ../logics.class.php
+[24-May-2025 09:11:04 UTC] PHP Warning:  require_once(./dbcredentials.class.php): Failed to open stream: No such file or directory in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:11:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './dbcredentials.class.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php:2
+Stack trace:
+#0 /home/u899926382/domains/quantapixel.in/public_html/saigfx/api/get-products.php(30): require_once()
+#1 {main}
+  thrown in /home/u899926382/domains/quantapixel.in/public_html/saigfx/logics.class.php on line 2
+[24-May-2025 09:12:38 UTC] Starting get-products.php request
+[24-May-2025 09:12:38 UTC] Sending approved products response
+[24-May-2025 09:13:17 UTC] Starting get-products.php request
+[24-May-2025 09:13:17 UTC] Sending approved products response

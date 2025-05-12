@@ -1,0 +1,45 @@
+{
+    "status": 1,
+    "count": 3,
+    "id": [1, 2, 3],
+    "product_name": [
+        "Premium Logo Design",
+        "Social Media Kit",
+        "Business Card Design"
+    ],
+    "category_name": [
+        "Logo Design",
+        "Social Media",
+        "Print Design"
+    ],
+    "featured_image": [
+        "logo-design.jpg",
+        "social-media-kit.jpg",
+        "business-card.jpg"
+    ],
+    "short_description": [
+        "Professional logo design with unlimited revisions",
+        "Complete social media package for your brand",
+        "Custom business card design with premium finish"
+    ],
+    "product_price": [
+        "4999",
+        "2999",
+        "1999"
+    ],
+    "discounted_price": [
+        "3999",
+        "2499",
+        "1499"
+    ],
+    "slug": [
+        "premium-logo-design",
+        "social-media-kit",
+        "business-card-design"
+    ],
+    "verification_status": [
+        "approved",
+        "approved",
+        "approved"
+    ]
+} 
