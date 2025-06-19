@@ -1,0 +1,482 @@
+/* Common styles for contact and about pages */
+.section-ptb {
+    padding: 80px 0;
+}
+
+.section-header {
+    margin-bottom: 50px;
+}
+
+.section-title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #222;
+}
+
+.section-description {
+    font-size: 16px;
+    color: #666;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.bg-light-grey {
+    background-color: #f8f9fa;
+}
+
+/* Contact page styles */
+.contact-info-wrapper {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+
+.contact-info-box {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.contact-info-icon {
+    min-width: 50px;
+    height: 50px;
+    background-color: #fcba05;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.contact-info-content h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #222;
+}
+
+.contact-info-content p {
+    margin-bottom: 5px;
+    color: #666;
+}
+
+.contact-info-content a {
+    color: #666;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.contact-info-content a:hover {
+    color: #fcba05;
+}
+
+.contact-social h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #222;
+}
+
+.social-links {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.social-links li {
+    margin-right: 15px;
+}
+
+.social-links a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: #f5f5f5;
+    border-radius: 50%;
+    color: #666;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.social-links a:hover {
+    background-color: #fcba05;
+    color: #fff;
+}
+
+.contact-form-wrapper {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+
+.contact-form-wrapper h3 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    color: #222;
+}
+
+.contact-form label {
+    font-weight: 500;
+    margin-bottom: 8px;
+    display: block;
+    color: #444;
+}
+
+.contact-form .required {
+    color: #dc3545;
+}
+
+.contact-form .form-control {
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    padding: 10px 15px;
+    font-size: 15px;
+}
+
+.contact-form textarea.form-control {
+    height: auto;
+    resize: vertical;
+}
+
+.contact-form .form-control:focus {
+    border-color: #fcba05;
+    box-shadow: 0 0 0 0.2rem rgba(252, 186, 5, 0.25);
+}
+
+.contact-form .btn-primary {
+    background-color: #fcba05;
+    border-color: #fcba05;
+    color: #fff;
+    padding: 12px 30px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 16px;
+    transition: all 0.3s;
+}
+
+.contact-form .btn-primary:hover {
+    background-color: #e6a800;
+    border-color: #e6a800;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(252, 186, 5, 0.3);
+}
+
+.map-container {
+    width: 100%;
+    height: 450px;
+    position: relative;
+    overflow: hidden;
+}
+
+.map-container iframe {
+    border: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* About page styles */
+.about-banner-section {
+    padding: 100px 0;
+    background-color: #fff;
+}
+
+.about-title {
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    color: #222;
+    line-height: 1.2;
+}
+
+.about-description {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+.about-stats {
+    margin-top: 40px;
+}
+
+.stat-item {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.stat-item h3 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #fcba05;
+    margin-bottom: 5px;
+}
+
+.stat-item p {
+    font-size: 14px;
+    color: #666;
+    font-weight: 500;
+}
+
+.about-banner-image {
+    position: relative;
+}
+
+.about-banner-image img {
+    border-radius: 10px;
+}
+
+.mission-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    height: 100%;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+    transition: all 0.3s;
+}
+
+.mission-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+}
+
+.mission-icon {
+    width: 70px;
+    height: 70px;
+    background-color: #fcba05;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.mission-card h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #222;
+}
+
+.mission-card p {
+    color: #666;
+    line-height: 1.6;
+}
+
+.story-content h2 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    color: #222;
+}
+
+.story-content p {
+    color: #666;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.story-image img {
+    border-radius: 10px;
+}
+
+.team-card {
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+    transition: all 0.3s;
+}
+
+.team-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+}
+
+.team-image {
+    position: relative;
+    overflow: hidden;
+}
+
+.team-image img {
+    width: 100%;
+    transition: transform 0.5s;
+}
+
+.team-card:hover .team-image img {
+    transform: scale(1.05);
+}
+
+.team-info {
+    padding: 20px;
+    text-align: center;
+}
+
+.team-info h4 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #222;
+}
+
+.team-info p {
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.team-social {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.team-social li {
+    margin: 0 5px;
+}
+
+.team-social a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    background-color: #f5f5f5;
+    border-radius: 50%;
+    color: #666;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.team-social a:hover {
+    background-color: #fcba05;
+    color: #fff;
+}
+
+.testimonial-item {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+    margin: 15px;
+}
+
+.testimonial-rating {
+    margin-bottom: 15px;
+    color: #fcba05;
+}
+
+.testimonial-content p {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.testimonial-author {
+    display: flex;
+    align-items: center;
+}
+
+.testimonial-author img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 15px;
+    object-fit: cover;
+}
+
+.author-info h5 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #222;
+}
+
+.author-info p {
+    color: #666;
+    margin: 0;
+}
+
+.cta-section {
+    background-color: #fcba05;
+}
+
+.cta-title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.cta-description {
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.cta-section .btn-light {
+    font-weight: 600;
+    padding: 12px 30px;
+    border-radius: 8px;
+    transition: all 0.3s;
+}
+
+.cta-section .btn-light:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive styles */
+@media (max-width: 991px) {
+    .section-ptb {
+        padding: 60px 0;
+    }
+    
+    .about-title {
+        font-size: 32px;
+    }
+    
+    .story-content {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .section-ptb {
+        padding: 50px 0;
+    }
+    
+    .section-title {
+        font-size: 28px;
+    }
+    
+    .about-title {
+        font-size: 28px;
+    }
+    
+    .about-banner-section {
+        padding: 60px 0;
+    }
+    
+    .stat-item h3 {
+        font-size: 24px;
+    }
+    
+    .cta-title {
+        font-size: 28px;
+    }
+}
